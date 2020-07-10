@@ -1,0 +1,14 @@
+{
+    "name": "Testing/package",
+    "type": "library",
+    "description": "Testing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sarfraj Mulani",
+            "email": "itsmesarfraj@gmail.com",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+}
