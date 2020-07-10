@@ -1,14 +1,18 @@
 {
-    "name": "Testing/package",
+    "name": "sarfraj/package",
     "type": "library",
-    "description": "Testing",
+    "description": "testing,
     "license": "MIT",
     "authors": [
         {
-            "name": "Sarfraj Mulani",
-            "email": "itsmesarfraj@gmail.com",
-            "homepage": "http://seld.be",
-            "role": "Developer"
+            "name": "Sarfraj",
+            "email": "itsmesarfraj@gmail.com"
         }
     ],
+    "autoload":{
+        "psr-4" {
+            "package\\": "package"
+        }
+        "require":{}
+    }
 }
