@@ -1,17 +1,17 @@
 {
-    "name": "testing",
+    "name": "sarfrajm/package",
     "type": "library",
     "description": "testing",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sarfraj",
+            "name": "sarfrajm",
             "email": "itsmesarfraj@gmail.com"
         }
     ],
     "autoload":{
         "psr-4": {
-            "package\\": "package"
+            "testing\\": "package/"
         }        
     },
     "require":{}
