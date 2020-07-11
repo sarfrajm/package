@@ -1,2 +1,8 @@
 <?php
-echo 'Hello Xento....!!!';
+
+class packageTesting {
+  public function display() {  
+    echo 'Hello Xento....!!!';
+  }
+}
+?>
